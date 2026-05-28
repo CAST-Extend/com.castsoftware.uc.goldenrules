@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>com.castsoftware.uc.goldenrules</id>
+    <version>1.0.0</version>
+    <title>Golden Rules custom extension</title>
+    <authors>User Community</authors>
+    <owners>CAST</owners>
+    <projectUrl>https://github.com/CAST-Extend/com.castsoftware.uc.goldenrules</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Technology extension to define custom BCs to encompass sets of "Golden Rules" from existing ones.</description>
+    <tags>CAST UserCommunity GoldenRules</tags>
+  </metadata>
+  <files />
+</package>
